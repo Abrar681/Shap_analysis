@@ -7,7 +7,7 @@ We use **SHAP** for interpretability (global + local explanations) and compare r
 ## 📂 Repository Structure
 - `DeepSurv.ipynb` → Model training & survival curves
 - `04_shap_analysis.ipynb` → SHAP global & local analysis
-- `results/` → Saved plots and CSVs
+- `plot/` → Saved plots and CSVs
 - `README.md` → Documentation
 
 ## 🎯 Key Deliverables
