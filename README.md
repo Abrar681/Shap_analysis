@@ -6,7 +6,7 @@ We use **SHAP** for interpretability (global + local explanations) and compare r
 
 Survival-SHAP-Project/
 
-   |-shap_analysis.ipynb              
+   |-shap_analysis_model.ipynb              
    |-survival_dataset.csv             
    |-shap_values.csv                  
    |-plot/                            
