@@ -5,13 +5,14 @@ This project applies **DeepSurv**, a deep learning Cox model, to predict patient
 We use **SHAP** for interpretability (global + local explanations) and compare results with classical **CoxPH**.
 
 Survival-SHAP-Project/
-
-   |-shap_analysis_model.ipynb              
+   |-README.md                      
+   |-requirements.txt                
+   |-shap_project.py              
    |-survival_dataset.csv             
    |-shap_values.csv                  
    |-plot/                            
-      * data_distribution.png        
-      * survival_curve.png           
+      *  data_distribution.png        
+      *  survival_curve.png           
       *	survival by treatment.png                 
       *	survivs by gender.png             
       *	survival by comorbidity.png        
@@ -20,9 +21,8 @@ Survival-SHAP-Project/
       *	shap value impact on model.png
       *	patient risk.png
       *	coxph vs shap.png
-   |-report.md                      
-   |-requirements.txt               
-   |-README.md                      
+   |-README.md 
+                       
 
 
 Project Workflow
